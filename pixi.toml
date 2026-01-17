@@ -1,0 +1,11 @@
+[workspace]
+authors = ["t-mariani <tom.mariani68@gmail.com>"]
+channels = ["conda-forge"]
+name = "bof"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+rich = ">=14.2.0,<15"
